@@ -9,7 +9,7 @@ This project is a Sales Forecasting Application developed using C# and Entity Fr
 - Query sales data for a specific year.
 - Apply percentage increments to forecast future sales.
 - Export forecast data to CSV.
-- Generate charts for sales data visualization.
+
 
 ## Getting Started
 
